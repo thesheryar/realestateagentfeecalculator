@@ -16,4 +16,4 @@ Change the name of CSS Classes to something more unique to avoid WordPress Confl
 
 # Preview
 ![Image of the Program](Screenshot.png)
-<img src="RealEstate-Custom-Calculator.gif">
+<img src="https://raw.githubusercontent.com/thesheryar/realestateagentfeecalculator/master/RealEstate%20Custom%20Calculator.gif">
