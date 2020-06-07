@@ -14,5 +14,6 @@ Download this plugin https://wordpress.org/plugins/custom-css-js-php/ and add th
 
 Change the name of CSS Classes to something more unique to avoid WordPress Conflicts. 
 
-# Screenshots
+# Preview
 ![Image of the Program](Screenshot.png)
+![Video/GIF of Program](RealEstate Custom Calculator.gif)
