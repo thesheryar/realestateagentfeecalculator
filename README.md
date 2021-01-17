@@ -15,5 +15,6 @@ Download this plugin https://wordpress.org/plugins/custom-css-js-php/ and add th
 Change the name of CSS Classes to something more unique to avoid WordPress Conflicts. 
 
 # Preview
+Demo Preview: https://thesheryar.github.io/realestateagentfeecalculator/index.html
 ![Image of the Program](Screenshot.png)
 <img src="https://raw.githubusercontent.com/thesheryar/realestateagentfeecalculator/master/RealEstate%20Custom%20Calculator.gif">
